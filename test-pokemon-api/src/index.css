@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=AR+One+Sans:wght@500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  font-family: 'AR One Sans', sans-serif;
+  text-align: center;
+}
+
+h1{
+  font-weight: 900;
+  font-size: 42px;
+  text-transform: uppercase;
+} 
+
+h2{
+  font-size: 36px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+h3{
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+h4{
+  font-size: 15px;
+  font-weight: 100;
+
+}
+
+h5{
+  font-size: 10px;
+
+}
